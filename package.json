@@ -1,0 +1,27 @@
+{
+  "name": "js-test-project",
+  "version": "1.0.0",
+  "description": "A simple project with a single failing test",
+  "scripts": {
+    "test": "mocha test/**/*spec.js"
+  },
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syngenta-digital/challenge-js-test-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syngenta-digital/challenge-js-test-project/issues"
+  },
+  "homepage": "https://github.com/syngenta-digital/challenge-js-test-project#readme"
+}
